@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SkelettonMviFlow</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="home_fragment_label">Home</string>
+    <string name="second_fragment_label">Detail</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <!--failure message -->
+    <string name="failure_no_data">No data</string>
+    <string name="failure_network_issue">Network issue</string>
+    <string name="failure_unknown_error">Unknown_error</string>
+</resources>
